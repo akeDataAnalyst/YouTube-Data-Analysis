@@ -29,9 +29,9 @@ Documentation for how to use access data
 ## PART -3 Building the project
 - start my project on Jupyter notebook
 
-`from googleapiclient.discovery import build
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt`
+`from googleapiclient.discovery import build`
+`import pandas as pd`
+`import seaborn as sns`
+`import matplotlib.pyplot as plt`
 
 [Python file](akeapi.py)
