@@ -1,6 +1,6 @@
 # YouTube-Data-Analysis | python
 
-# [Project 2: YouTube-Data-Analysis](https://github.com/akeDataAnalyst/YouTube-Data-Analysis)
+# [Project 2: YouTube-Data-Analysis](https://akedataanalyst.github.io/YouTube-Data-Analysis/)
 
 This is a project I did to Extract and Analyze youtube channel data with content of real estate that I watch most of the time. these project begin by accesing of youtube api and extract the data from youtube then load the data into pandas data frame. Finally Analyse and do visualization using the seaborn python library.
 
