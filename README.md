@@ -1,4 +1,5 @@
-# YouTube-Data-Analysis | python
+# YouTube-Data-Analysis 
+python
 
 # [Project 2: YouTube-Data-Analysis](https://akedataanalyst.github.io/YouTube-Data-Analysis/)
 
